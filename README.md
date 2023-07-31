@@ -16,7 +16,7 @@ The Mountain Parallax Effect is a simple web application that showcases a parall
 
 ## Demo
 
-A live demo of the Mountain Parallax Effect can be found at: [https://your-demo-url.com](https://codepen.io/abdul-1432/pen/ZEmmZRv)
+A live demo of the Mountain Parallax Effect can be found at: [Demo](https://codepen.io/abdul-1432/pen/ZEmmZRv)
 
 ## Features
 
