@@ -1,6 +1,6 @@
 # Mountain Parallax Effect
 
-![Mountain Parallax Effect](mountain-parallax-demo.gif)
+![3](https://github.com/abdul-1432/Mounatin_Parallax/assets/124916666/aec2bd2a-a35f-40bf-bec0-9ad543a7d261)
 
 The Mountain Parallax Effect is a simple web application that showcases a parallax scrolling effect featuring mountains. This effect is built using HTML, CSS, and JavaScript to create a visually appealing and interactive experience for users.
 
